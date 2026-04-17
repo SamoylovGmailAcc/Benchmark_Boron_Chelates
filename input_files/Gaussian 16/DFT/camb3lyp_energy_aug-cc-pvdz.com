@@ -1,0 +1,1 @@
+#p cam-b3lyp/aug-cc-pvdz pop=full gfinput

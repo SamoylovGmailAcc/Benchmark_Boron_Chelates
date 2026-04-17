@@ -1,0 +1,1 @@
+#p M062X/6-311++G(3df,3pd) pop=full gfinput

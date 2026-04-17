@@ -1,0 +1,1 @@
+#p BHandHLYP/def2tzvp pop=full gfinput

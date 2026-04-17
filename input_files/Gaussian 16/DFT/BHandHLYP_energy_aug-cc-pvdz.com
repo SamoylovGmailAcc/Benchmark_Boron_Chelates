@@ -1,0 +1,1 @@
+#p BHandHLYP/aug-cc-pvdz pop=full gfinput

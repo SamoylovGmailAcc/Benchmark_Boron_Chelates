@@ -1,0 +1,1 @@
+#p WB97X/aug-cc-pvdz pop=full gfinput

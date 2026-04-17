@@ -1,0 +1,1 @@
+#p hf/def2tzvp pop=full gfinput EPT=P3 TRANS=IJAB

@@ -1,0 +1,1 @@
+#p M062X/aug-cc-pvdz pop=full gfinput

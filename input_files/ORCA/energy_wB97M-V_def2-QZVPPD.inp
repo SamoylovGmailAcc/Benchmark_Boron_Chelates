@@ -1,0 +1,3 @@
+! energy wB97M-V SCNL def2-QZVPPD def2-QZVPPD/C def2/J RIJCOSX tightscf
+
+* xyzfile 0 1 filenam.xyz

@@ -1,0 +1,1 @@
+#p hf/aug-cc-pvdz ept=p3 pop=full gfinput

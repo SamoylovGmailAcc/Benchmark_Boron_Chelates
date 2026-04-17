@@ -1,0 +1,1 @@
+#p cam-b3lyp/6-311++G(3df,3pd) pop=full gfinput
